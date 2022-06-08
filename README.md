@@ -9,7 +9,8 @@ For more detailed material, check out [DIF's Decentralized Identity FAQ](https:/
  
  
 
-**<details><summary>Unfold me</summary>**
+**<details>
+	<summary>Unfold me</summary>**
 	
 ++
 **More information:**
